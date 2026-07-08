@@ -25,7 +25,7 @@ I have a strong interest in **Artificial Intelligence and Deep Learning**, and I
 ## 🛠️ Skills
 
 **Programming Languages:**
-C, C++, Python,Java, JavaScript
+C, C++, Python,Java, JavaScript,PHP
 
 **Web Technologies:**
 HTML, CSS, JavaScript, React, Node.js*(Learning Phase)*
